@@ -53,6 +53,7 @@ Buatlah Sebuah Program dapat menerima inputan dari user dan memiliki __sebuah re
     h i k a
     D i g i t
     a l T e c h
+    n o l o g y S 
     c h o o l J K T
     P u r w a d h i
     k a D i g i t
