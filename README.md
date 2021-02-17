@@ -24,11 +24,11 @@ Buatlah Sebuah Program dapat menerima inputan dari user dan memiliki __sebuah re
     
     Masukkan kalimat : Job Connector DS Jakarta 
     
-    Masukkan kata : Code
+    Masukkan kalimat : Code
     
-    Masukkan kata : Digital
+    Masukkan kalimat : Digital
     
-    Masukkan kata : Data Science
+    Masukkan kalimat : Data Science
     ```
 
 - __Output__ yang diharapkan:
