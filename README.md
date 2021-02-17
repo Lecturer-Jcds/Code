@@ -130,7 +130,7 @@ __NPWP__ (Nomor Pokok Wajib Pajak) memiliki kode seri dengan __15 angka__, yang 
 
 <hr>
 
-Berdasarkan uraian di atas, buatlah sebuah program yg menerima inputan dari user dan memiliki __sebuah return function__ untuk melakukan verifikasi kode seri NPWP & menguraikan artinya. Adapun eksekusi program tersebut beserta output yang diharapkan adalah sebagai berikut.
+Berdasarkan uraian di atas, buatlah sebuah program yg menerima inputan dari user dan memiliki __sebuah return function__ dengan __1 Argumen__ untuk melakukan verifikasi kode seri NPWP & menguraikan artinya. Adapun eksekusi program tersebut beserta output yang diharapkan adalah sebagai berikut.
 
 - ```Masukkan NPWP : 99.999.999.9-999.999```
     ```
