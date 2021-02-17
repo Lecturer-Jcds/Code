@@ -16,7 +16,7 @@ Buatlah Sebuah Program dapat menerima inputan dari user dan memiliki __sebuah re
     Contoh Input:
     Masukkan kalimat : Purwadhika
     
-    Masukkan kalimat : Purwadhika Digital Coding School Jakarta
+    Masukkan kalimat : Purwadhika Digital Technology School JKT
     
     Masukkan kalimat : Python Code
     
@@ -45,24 +45,22 @@ Buatlah Sebuah Program dapat menerima inputan dari user dan memiliki __sebuah re
     i k     
     a   
 
-    # input : Purwadhika Digital Coding School Jakarta
+    # input : Purwadhika Digital Technology School JKT
     
     P
     u r
     w a d
     h i k a
     D i g i t
-    a l C o d i
-    n g S c h o o
-    l J a k a r t a
+    a l T e c h
+    c h o o l J K T
     P u r w a d h i
     k a D i g i t
-    a l C o d i
-    n g S c h
-    o o l J
-    a k a
-    r t
-    a
+    n o l o g
+    y S c h
+    o o l
+    J K
+    T
 
     # input : Python Code
     
@@ -157,10 +155,10 @@ Berdasarkan uraian di atas, buatlah sebuah program yg menerima inputan dari user
     ```
     Kode seri NPWP ini tidak valid dikarenakan lebih dari 15 digit angka.
 
-- ```Masukkan NPWP : 01.885.434.4-215.000```
+- ```Masukkan NPWP : 05.885.434.4-215.000```
     ```
     Output: Kode seri NPWP valid!
-            Identitas Wajib Pajak: 01 Wajib Pajak Badan
+            Identitas Wajib Pajak: 01 Wajib Pajak Pengusaha
             Nomor Registrasi: 885.434
             Alat Pengaman: 4
             Kode KPP: 215
