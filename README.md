@@ -6,7 +6,7 @@
 
 #
 
-### **Triangle Words**
+### **Triangle Words - Time Limit 160 Mins**
 
 Buatlah Sebuah Program dapat menerima inputan dari user dan memiliki __sebuah return function__ dengan __1 argumen__, output dari program membentuk pola segitiga sama kaki dengan elemen berupa karakter-karakter dari sebuah __string__ yang menjadi argumen function tersebut.
 
@@ -108,7 +108,7 @@ Buatlah Sebuah Program dapat menerima inputan dari user dan memiliki __sebuah re
     Mohon maaf, jumlah karakter tidak memenuhi syarat membentuk pola.
     ```
 
-### **NPWP Verification**
+### **NPWP Verification - Time Limit 130 Mins**
 
 __NPWP__ (Nomor Pokok Wajib Pajak) memiliki kode seri dengan __15 angka__, yang menggunakan format sebagai berikut: __99.999.999.9-999.999__.
 
