@@ -20,7 +20,7 @@ Buatlah Sebuah Program dapat menerima inputan dari user dan memiliki __sebuah re
     
     Masukkan kalimat : Python Code
     
-    Masukkan kalimat : JCDS12
+    Masukkan kalimat : JCAH05
     
     Masukkan kalimat : Job Connector DS Jakarta 
     
@@ -74,14 +74,14 @@ Buatlah Sebuah Program dapat menerima inputan dari user dan memiliki __sebuah re
     o d
     e
     
-    # input : JCDS12
+    # input : JCAH05
     
     J
-    C D
-    S 1 2
-    J C D
-    S 1
-    2
+    C A
+    H 0 5
+    J C A
+    H 0
+    5
     
     # input : Job Connector DS Jakarta 
     
