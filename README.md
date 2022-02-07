@@ -74,7 +74,7 @@ Buatlah Sebuah Program dapat menerima inputan dari user dan memiliki __sebuah re
     o d
     e
     
-    # input : JCAH05
+    # input : JCDS16
     
     J
     C D
